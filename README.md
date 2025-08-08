@@ -1,6 +1,9 @@
 # Hola, soy **Ronaldo Cristian Salazar López** 👋
 **Estudiante de Ingeniería de Sistemas (8vo ciclo)** 
 
+<p align="center">
+  <img src="./assets/sl_banner.png" alt="Mi banner" width="400">
+</p>
 ### 🔭 Actualmente
 - Buscando prácticas preprofesionales para aplicar y crecer en desarrollo web 👨‍💻.
 - Aprendiendo Kotlin para desarrollo móvil.
@@ -30,7 +33,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
----
+
 
 ## 📊 GitHub Estadísticas:
 <div align="center">
@@ -43,7 +46,7 @@
 
 </div>
 
----
+
 
 <div align="center">
   
